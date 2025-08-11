@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GIF Generator App
 
 A simple web app that generates:
@@ -27,3 +28,6 @@ This project uses the **GIPHY API** to fetch trending and searched GIFs in real-
 <img width="1815" height="833" alt="image" src="https://github.com/user-attachments/assets/8b567d09-d272-46ce-8775-d966d361981f" />
 
 
+=======
+# random-gifs
+>>>>>>> cdfbb00 (Random GIF)
