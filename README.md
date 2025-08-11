@@ -6,7 +6,6 @@ A simple web app that generates:
 
 This project uses the **GIPHY API** to fetch trending and searched GIFs in real-time.
 
----
 
 ## Features
 - **Random GIF Generator**  
@@ -16,7 +15,6 @@ This project uses the **GIPHY API** to fetch trending and searched GIFs in real-
 - **Responsive Design**  
   Works well on desktop devices.
 
----
 
 ## Technologies Used
 - **HTML5**
@@ -24,7 +22,6 @@ This project uses the **GIPHY API** to fetch trending and searched GIFs in real-
 - **JavaScript (ES6)**
 - **GIPHY API**
 
----
 
 ## Screenshot
 <img width="1815" height="833" alt="image" src="https://github.com/user-attachments/assets/8b567d09-d272-46ce-8775-d966d361981f" />
